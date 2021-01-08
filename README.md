@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **web dev**
 
-- 🌱 I’m currently learning **git,boostrap**
+- 🌱 I’m currently learning **ractjs,js**
 
-- 💬 Ask me about **html,js,css,boostrap,c**
+- 💬 Ask me about **html,js,css,boostrap,c,React**
 
 - 📫 How to reach me **iliasbenbernou741@gmail.com**
 
