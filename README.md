@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm benbernou ilias</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from algeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilias2700" alt="ilias2700" /> </p>
 
 - 🔭 I’m currently working on **web dev**
 
-- 🌱 I’m currently learning **ractjs,js**
+- 🌱 I’m currently learning **reactjs,js**
 
-- 💬 Ask me about **html,js,css,boostrap,c,React**
+- 💬 Ask me about **html,js,css,bootstrap,c,React**
 
 - 📫 How to reach me **iliasbenbernou741@gmail.com**
 
