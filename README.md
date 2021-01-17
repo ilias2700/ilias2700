@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilias2700" alt="ilias2700" /> </p>
 
-- 🔭 I’m currently working on **web dev**
+- 🔭 I’m currently working on **neo**
 
 - 🌱 I’m currently learning **reactjs,js**
 
