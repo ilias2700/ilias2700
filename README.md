@@ -13,7 +13,7 @@ ilias benbernou Front-end developer
 
 Skills:  JS / REACT / c / HTML / CSS / java / html / css / bootstrap / flask / git / linux
 
-- 🔭 I’m currently working At Neo 
+- 🔭 I’m currently working At KEO 
 - 🌱 I’m currently learning react,js 
 - 💬 Ask me about js,react,c 
 - 📫 How to reach me: iliasbenbernou741@gmail.com 
