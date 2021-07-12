@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://firebasestorage.googleapis.com/v0/b/photo-dfa83.appspot.com/o/SL-103020-37400-21.jpg?alt=media&token=db786ac6-0d08-4d16-9fdf-f8f81cdbd6e1" alt="cover" />
+<img width="100%" height = "100%" src="https://firebasestorage.googleapis.com/v0/b/photo-dfa83.appspot.com/o/SL-103020-37400-21.jpg?alt=media&token=db786ac6-0d08-4d16-9fdf-f8f81cdbd6e1" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
