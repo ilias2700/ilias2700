@@ -46,9 +46,9 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/ilias2700)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ilias2700&show_icons=true&count_private=true)  
+ 
 
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ilias2700)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ilias2700&theme=tokyonight)  
 
