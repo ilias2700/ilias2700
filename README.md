@@ -30,10 +30,10 @@
    [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ilias2700&theme=tokyonight)]()
 
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilias2700&theme=tokyonight)     
+     
   
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ilias2700&theme=onedark)](https://github.com/ilias2700/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ilias2700&theme=tokyonight)](https://github.com/ilias2700/github-profile-trophy)
   
   
   <p align="center">
