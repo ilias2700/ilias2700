@@ -11,18 +11,18 @@
 <div size='20px'> Hi! My name is Rahul. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h2> About Me <img src = "<a href='https://fr.freepik.com/vecteurs/technologie'>Technologie vecteur créé par starline - fr.freepik.com</a>></h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on My WordPress Blog, Medium Profile
+- 🔭 I’m currently working At KEO 
+  
+- 🌱 I’m currently learning react native,js
+  
+-💬 Ask me about js,react,react native,c,html css,jinja 
 
-- 🌱 I’m currently learning TypeScript, React, Flask 
-
-- 👯 I’m looking to collaborate on Projects,Tech Articles 
-
-- 💬 Talk to me about Python, JavaScript,Freelancing Opportunites, Open Source 
+- 📫 How to reach me: iliasbenbernou741@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ilias2700)  
