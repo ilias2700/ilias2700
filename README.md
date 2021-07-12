@@ -11,7 +11,7 @@
 <div size='20px'> Hi! My name is Rahul. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2> About Me <img src = "<a href='https://fr.freepik.com/vecteurs/technologie'>Technologie vecteur créé par starline - fr.freepik.com</a>></h2>
+<h2> About Me <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /></h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
