@@ -29,6 +29,8 @@
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ilias2700&theme=tokyonight)]()
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilias2700&theme=tokyonight)
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ilias2700&theme=onedark)](https://github.com/ilias2700/github-profile-trophy)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ilias2700)  
 
