@@ -2,7 +2,7 @@
 <img width="100%" height = "350px" src="https://firebasestorage.googleapis.com/v0/b/photo-dfa83.appspot.com/o/SL-103020-37400-21.jpg?alt=media&token=db786ac6-0d08-4d16-9fdf-f8f81cdbd6e1" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hi,Welcome to my github! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rahulbanerjee26.rahulbanerjee26)
@@ -20,7 +20,7 @@
   
 - 🌱 I’m currently learning react native,js
   
--💬 Ask me about js,react,react native,c,html css,jinja 
+- 💬 Ask me about js,react,react native,c,html css,jinja 
 
 - 📫 How to reach me: iliasbenbernou741@gmail.com 
 
