@@ -32,9 +32,7 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=ilias2700&theme=tokyonight)](https://github.com/ilias2700/github-profile-trophy)
   
   
-  <p align="center">
-<img src="https://metrics.lecoq.io/ilias2700?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&pagespeed=1&pagespeed.detailed=false&pagespeed.screenshot=false&isocalendar.duration=half-year&config.timezone=Africa%2FAlgiers&config.animated=true" />
-</p>
+
 
  
 
