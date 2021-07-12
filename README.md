@@ -7,7 +7,7 @@
 
 [![Visits Badge](https://badges.pufler.dev/visits/ilias2700/ilias2700)](https:ilias2700.dev)
 </p>
-<div size='20px'> Hi! My name is Rahul. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is ilias. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
 <h2> About Me </h2>
