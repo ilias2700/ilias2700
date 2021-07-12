@@ -5,7 +5,7 @@
 <h1> Hi,Welcome to my github! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rahulbanerjee26.rahulbanerjee26)
+[![Visits Badge](https://badges.pufler.dev/visits/ilias2700)](https:ilias2700.dev)
 
 </p>
 <div size='20px'> Hi! My name is Rahul. Thank You for taking the time to view my GitHub Profile :smile: 
