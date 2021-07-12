@@ -1,22 +1,28 @@
-### Hi 👋, I am ilias benbernou
-#### A passionate frontend developer from algeria
+<div align="center">
+<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
+</div>
+
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<p align='center'>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=rahulbanerjee26.rahulbanerjee26)
+
+</p>
+<div size='20px'> Hi! My name is Rahul. Thank You for taking the time to view my GitHub Profile :smile: 
+</div>
+
+<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
+- 🔭 I’m currently working on My WordPress Blog, Medium Profile
 
-![Profile views](https://gpvc.arturio.dev/ilias2700)  
+- 🌱 I’m currently learning TypeScript, React, Flask 
 
+- 👯 I’m looking to collaborate on Projects,Tech Articles 
 
-
-![A passionate frontend developer from algeria](https://firebasestorage.googleapis.com/v0/b/photo-dfa83.appspot.com/o/1TnycUN0o-A.jpg?alt=media&token=6c6a6503-8a27-43ad-9bb2-026222c01686)
-
-ilias benbernou Front-end developer
-
-Skills:  JS / REACT / c / HTML / CSS / java / html / css / bootstrap / flask / git / linux
-
-- 🔭 I’m currently working At KEO 
-- 🌱 I’m currently learning react,js 
-- 💬 Ask me about js,react,c 
-- 📫 How to reach me: iliasbenbernou741@gmail.com 
+- 💬 Talk to me about Python, JavaScript,Freelancing Opportunites, Open Source 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ilias2700)  
